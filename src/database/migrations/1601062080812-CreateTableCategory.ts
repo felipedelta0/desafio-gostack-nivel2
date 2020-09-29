@@ -19,7 +19,6 @@ export default class CreateTableCategory1601062080812
           {
             name: 'title',
             type: 'varchar',
-            isNullable: false,
           },
           {
             name: 'created_at',
